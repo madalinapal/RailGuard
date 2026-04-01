@@ -1,4 +1,4 @@
-# Railguard
+# RailGuard
 
 **RailGuard** is an automated railway crossing management system. Built on **FreeRTOS** for Arduino, the project ensures a high-level of safety and operational efficiency by synchronizing train detection with barrier actuation in real-time.
 
